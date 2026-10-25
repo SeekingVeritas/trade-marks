@@ -25,3 +25,19 @@ Three sets. No words.
 ![Pot](craft/pot.jpg)
 
 ![Yarn](craft/yarn.jpg)
+
+## Contractor, more
+
+![Tape measure](contractor/tape.jpg)
+
+![Saw](contractor/saw.jpg)
+
+![Ladder](contractor/ladder.jpg)
+
+![Toolbox](contractor/box.jpg)
+
+![Level](contractor/level.jpg)
+
+![Drill](contractor/drill.jpg)
+
+![Wrench](contractor/wrench.jpg)
