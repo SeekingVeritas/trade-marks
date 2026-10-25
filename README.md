@@ -1,14 +1,18 @@
 # Trade marks
 
-Three sets. No words.
+## Home building
 
-## Contractor
+![House and ladder](home/ladder.jpg)
 
-![House frame](contractor/frame.jpg)
+![New roof](home/roof.jpg)
 
-![Hammer](contractor/hammer.jpg)
+![House shell](home/shell.jpg)
 
-![Hard hat](contractor/hat.jpg)
+![Window](home/window.jpg)
+
+![Front door](home/door.jpg)
+
+![House and brush](home/paint.jpg)
 
 ## Farmer
 
@@ -25,19 +29,3 @@ Three sets. No words.
 ![Pot](craft/pot.jpg)
 
 ![Yarn](craft/yarn.jpg)
-
-## Contractor, more
-
-![Tape measure](contractor/tape.jpg)
-
-![Saw](contractor/saw.jpg)
-
-![Ladder](contractor/ladder.jpg)
-
-![Toolbox](contractor/box.jpg)
-
-![Level](contractor/level.jpg)
-
-![Drill](contractor/drill.jpg)
-
-![Wrench](contractor/wrench.jpg)
