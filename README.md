@@ -20,6 +20,8 @@
 
 ![Wheat](farmer/wheat.jpg)
 
+![Golden Field Farms invoice](farmer/golden-field-farms.png)
+
 ![Sun over a hill](farmer/sun.jpg)
 
 ## Craft fair
