@@ -1,18 +1,18 @@
 # Trade marks
 
-## Home building
+## Home, fancier
 
-![House and ladder](home/ladder.jpg)
+![House, roof, and ladder](fancy/ladder.jpg)
 
-![New roof](home/roof.jpg)
+![Badge](fancy/badge.jpg)
 
-![House shell](home/shell.jpg)
+![Layered roof](fancy/shingles.jpg)
 
-![Window](home/window.jpg)
+![Craftsman house](fancy/craftsman.jpg)
 
-![Front door](home/door.jpg)
+![House and brush](fancy/brush.jpg)
 
-![House and brush](home/paint.jpg)
+![Ridge and Co](fancy/ridge.jpg)
 
 ## Farmer
 
